@@ -7,7 +7,7 @@ excelente = 0
 ruim = 0
 
 # Número de entrevistados
-total_entrevistados = 10
+total_entrevistados = 50
 
 for i in range(total_entrevistados):
     print(f"\nEntrevistado: {i + 1}")
