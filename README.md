@@ -18,5 +18,6 @@ O programa consegue armazenar a entrada de dados de múltiplos entrevistados, va
 
 ## 🖥️Como usar
 Primeiro o código vai pedir para o usuário inserir o seu nome, e depois sua idade (a idade tem que ser válida, não podendo ser menor que 1 e maior que 119, além de não poder ter texto nela). Após o usuário ter colocado seu nome e idade, o programa pede para inserir a sua satisfação com o atendimento, indo de 1 (excelente), 2 (bom) e 3 (ruim). Caso seja inserido algum valor além desses 3, o programa desconsidera a resposta e continua para o proximo entrevistado. Se o valor inserido for correto, o programa contabiliza a sua resposta e continua para o proximo entrevistado. Por final, após ser entrevistado 50 pessoas, o código irá mostrar um relatório simples, contendo a quantidade de pessoas que escolheram a opção 1 (excelente), e a opção 3 (ruim).
+
 <img alt="Static Badge" src="https://img.shields.io/badge/pesquisa-opiniao-brightgreen?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?logo=github">
